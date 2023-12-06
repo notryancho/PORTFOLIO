@@ -95,12 +95,12 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://mernival.herokuapp.com/">
+                <a href="https://mernival.herokuapp.com/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-[#0a192f] text-white-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/jascolil01/Theme_Park_Project_A.J.R">
+                <a href="https://github.com/jascolil01/Theme_Park_Project_A.J.R" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-[#0a192f] text-white-700 font-bold text-lg">
                     Code
                   </button>
