@@ -1,0 +1,3 @@
+[build]
+publish = "portfolio"
+base = "portfolio"
