@@ -1,0 +1,3 @@
+[build]
+publish = "portfolio/public/"
+command = "npm run build"
